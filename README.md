@@ -187,7 +187,13 @@ If you would like to contribute:
 
 ## 📜 License
 
-This project is released under the **MIT License**.
+This project is source-available for personal, educational, and non-commercial use.
+
+Commercial use, resale, or incorporation into commercial products requires prior written permission from TW4RDYDEV.
+
+Copyright © 2026 TW4RDYDEV. All rights reserved.
+
+See the `LICENSE` file for full terms.
 
 ---
 
